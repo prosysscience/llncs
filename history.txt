@@ -137,3 +137,12 @@ Version history for the LLNCS LaTeX2e class
           samplepaper.tex         new sample paper
 
           llncsdoc.pdf            new LaTeX class documentation
+
+12.01.22  llncs.cls        2.21   fixed German and French \maketitle, bug reported by
+                                  Alexander Malkis, Technical University of Munich;
+                                  use detokenized argument in the definition of \doi
+                                  to allow underscores in DOIs
+
+05.09.22  llncs.cls        2.22   robust redefinition of \vec (bold italics), bug 
+                                  reported by Alexander Malkis, TUM
+

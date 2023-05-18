@@ -1,7 +1,8 @@
-Dear LLNCS user,
+Dear llncs user,
 
-The files in this directory belong to the LaTeX2e package for
-Lecture Notes in Computer Science (LNCS) of Springer-Verlag.
+The files in this directory belong to the LaTeX2e package 
+for Springer's Lecture Notes in Computer Science (LNCS) and 
+other proceedings book series.
 
 It consists of the following files:
 
